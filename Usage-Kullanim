@@ -1,0 +1,12 @@
+#English#
+usage is simple 
+This method is return NSSttring 
+create NSSttring atrtribute in Main or any ViewController and call deviceModel method its simple
+dont forget #import DeviceInfo.h :)
+
+#Turkish#
+
+Kullanım gayet kolay 
+Bu method NSSttring bir değişikeni tanımlayın Main veya herhangi bir ViewController içinde sonrasında deviceModel
+metodunu çağırın kullanım gayet kolay
+#import DeviceInfo.h yu eklemeyi unutmayın :)
