@@ -1,6 +1,6 @@
 //
 //  DeviceInfo.m
-//  MetroTurizm
+//  DeviceInfo
 //
 //  Created by Mirac Okan on 22.03.2018.
 //  Copyright © 2018 Atlas Yazılım. All rights reserved.
