@@ -4,9 +4,28 @@ This method is return NSSttring
 create NSSttring atrtribute in Main or any ViewController and call deviceModel method its simple
 dont forget #import DeviceInfo.h :)
 
+In Swift File 
+there is a extention for device model .
+You can use every function or constructor etc.
+Example 
+let modelName = UIDevice.modelName
+print(modelName)
+
 #Turkish#
 
 Kullanım gayet kolay 
 Bu method NSSttring bir değişikeni tanımlayın Main veya herhangi bir ViewController içinde sonrasında deviceModel
 metodunu çağırın kullanım gayet kolay
 #import DeviceInfo.h yu eklemeyi unutmayın :)
+
+Swift dosyasını kullanmak isterseniz 
+
+herhangi bir metod içerisinde çağırabilirsiniz veta yazılmış olan extention u herhangi bir classda kullanabilirsiniz.
+
+Örnek kullanımı 
+let modelName = UIDevice.modelName
+print(modelName)
+diye kullandığınız anda hangi cihazı kullandığınızı öğrenebilir ve modele göre işlemlerinizi gerçekleştirebilirsiniz.
+
+
+
